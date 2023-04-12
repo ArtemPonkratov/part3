@@ -1,8 +1,6 @@
 // // Задание 1
 
 const submitBtn = document.getElementById("submit-btn");
-submitBtn.
-submit
 
 addEventListener("click", function() {
 
@@ -29,4 +27,4 @@ if (num > 100) {
 }
 
 
-// Получаем ссылку на кнопку
+
